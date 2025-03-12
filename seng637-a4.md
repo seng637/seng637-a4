@@ -9,8 +9,9 @@ Due Date: Check D2L for the submission deadline.
 
 <span style="color:DarkCyan  ">
 
-> **Summary:
-> Part 1:**
+# Summary:
+
+## Part 1:
 
 - Install a mutation test tool.
 
@@ -22,7 +23,7 @@ Due Date: Check D2L for the submission deadline.
 - Design new test cases to increase your mutation score by at least 10% for
   each class (Classes under test: `Range.java`, `DataUtilities.java`)
 
-> **Part 2:**
+## Part 2:
 
 - Install Selenium (TESTING TOOLS).
 
