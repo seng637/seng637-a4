@@ -169,15 +169,18 @@ The main objective of this part of the assignment is to familiarize students wit
 
 ## 3.2 TESTING TOOLS
 
-In this assignment, you will mainly use Selenium web-interface testing tool to test one of the following websites.
+In this assignment, you will mainly use Selenium web-interface testing tool to test one of the following websites:
 
-- <span style="color:green">Shop Smart Canada Page
+- **E-commerce**: [Amazon Canada](https://www.amazon.ca)
+  - Suggested functionalities: product search, shopping cart, filter products, sort by price/rating
 
-- <span style="color:blue">Home Depot Page
+- **Tourism**: [Air Canada](https://www.aircanada.com)
+  - Suggested functionalities: flight search, seat selection, booking process, travel dates
 
-- <span style="color:purple">Leon's Page
+- **Education**: [Coursera](https://www.coursera.org)
+  - Suggested functionalities: course search, enrollment, filtering courses, language selection
 
-You will also explore this alternative tool: Sikulix (http://sikulix.com/quickstart/)
+You will also explore this alternative tool: [Sikulix](http://sikulix.com/quickstart/)
 
 ## 3.3 INSTRUCTIONS
 
