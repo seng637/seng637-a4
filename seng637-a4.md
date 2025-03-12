@@ -216,7 +216,7 @@ You will also explore this alternative tool: [Sikulix](http://sikulix.com/quicks
 
 ## 4.1 Lab report and Test suites (100%)
 
-Students will be required to submit a report on their work in the lab as a group. To be consistent, please use the template markdown file "Assignment4-ReportTemplate.md" provided online under the Assignment 4 folder. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
+Students will be required to submit a report on their work in the lab as a group. To be consistent, please use the template markdown file "seng637-a4-team_number.md" provided online under the Assignment 4 folder. If desired, feel free to rename the sections, as long as the headings are still descriptive and accurate.
 
 <span style="color:MidnightBlue   ">**NOTE2: include folder together with your report. One containing Part 1's final test suite, another containing Selenium test scripts.**
 
