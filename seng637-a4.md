@@ -75,12 +75,6 @@ Similar to assignments 2 and 3, the system to be tested for this part is JFreeCh
 
 2.  Follow the installation process. Note: Run Eclipse "as administrator" in Windows, click on preferences, on the left side click on Pitest and then select Mutators, choose All mutators, and finally apply and close. If you cannot find preferences through window tab you can simply look for it in the search (up right corner). **The latest version is Pitclipse 2.2.0**
 
-![](./media/2-Preferances.png)
-
-![](./media/9-Pitest.png)
-
-![](./media/1-Mutators.png)
-
 
 3.  If you could not find the Pitclipse in your Eclipse Marketplace please do the followings:
 
@@ -100,7 +94,12 @@ To enable all mutators:
 3. Select "All mutators" option
 4. Apply the changes
 
-**Figure 1 – Enabling mutators in Pitest**
+![](./media/2-Preferances.png)
+
+![](./media/9-Pitest.png)
+
+![](./media/1-Mutators.png)
+
 
 
 ## 2.5 INSTRUCTIONS
