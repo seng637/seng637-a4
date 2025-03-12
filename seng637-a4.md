@@ -223,7 +223,7 @@ Students will be required to submit a report on their work in the lab as a group
 A portion of the grade for the lab report will be allocated to organization and clarity. The report marking scheme is as follows:
 
 | **Mutation Testing (50)**                                                                                                                                         |     |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:| --- |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------| --- |
 | Analysis of at least 10 mutants produced by Pitest for the `Range` class, and how they are killed or not by your original test suite                              | 10  |
 | All the statistics and the mutation score for each of the mutated classes (`Range` and `DataUtilities`) with each test suite class (original and the updated one) | 20  |
 | A discussion on the effect of equivalent mutants on mutation score accuracy including a discussion on how equivalent mutants could be detected                    | 10  |
@@ -234,7 +234,7 @@ A portion of the grade for the lab report will be allocated to organization and 
 | Explain your test case design process                                                                                                                             | 10  |
 | Use of automated verification points in each script. If automated verification point is not used, provide valid reason                                            | 10  |
 | Use different test data per test. If not used, provide valid reason                                                                                               | 10  |
-| **Other (10)**                                                                                                                                                     |     |
+| **Other (10)**                                                                                                                                                    |     |
 | A discussion on how the team work/effort was divided and managed. Any lessons learned from your teamwork on this lab?                                             | 5   |
 | Comments/feedback on the assignment itself                                                                                                                        | 5   |
 
